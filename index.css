@@ -1,0 +1,92 @@
+.navbar{
+    background-color: black;
+}
+.navbar-toggler{
+    padding-left: 20%;
+    
+}
+.second{
+    padding-left: 30px;
+}
+.third{
+    padding-left: 30px;
+}
+
+p{
+    color:white;
+    
+}
+.first,.second,.third{
+    font-size: 13px;
+}
+.head{
+    background-color:black;
+    height: 500px;
+    padding-left: 39%;
+    padding-top: 15%;
+    color: white;
+}
+
+p{
+    color: black;
+}
+.passageone{
+    margin-top: 70px;
+}
+img{
+    
+    width: 320px;
+    padding-top: 90px;
+}
+.btn{
+    
+    width: 150px;
+    padding: 5px;
+    padding-left: 30px;
+}
+.firstbtn{
+    size: 20px;
+}
+.secondbtn{
+    size: 20px;
+}
+foo{
+    padding-left: 2px;
+}
+.quotes{
+    background-color: black;
+    margin-top: 50px;
+    height: 180px;
+    padding-top: 65px;
+
+}
+.qo{
+    padding-left:35%;
+    margin-top: 40%;
+    color:white;
+}
+h4{
+    display: flex;
+    flex-direction: row;
+}
+h4:before,
+h4:after {
+   content: "";
+   flex: 1 1;
+   border-bottom: 3px solid rgb(0, 0, 0);
+   margin: auto;
+}     
+.line{
+    padding-top: 10%;
+}
+.box1{
+    margin-top: 100px;
+    border: 1px solid black;
+    padding: 10px;
+    height: 150px;
+    padding-left: 10px;
+    width: 200px;
+}
+.last{
+    margin-top: 80px;;
+}
